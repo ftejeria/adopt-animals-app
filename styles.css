@@ -1,9 +1,32 @@
 body{
-    background-color: beige;
-  }
+ background-image: url(assets/fondo.jpg);
+
+ 
+ 
+}
+
+
+.card{
+  background-color: rgb(152, 201, 216);
+}
+.jumbotron{
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.navbar-dark {
+  border-radius: 10px;
+}
+.p-4{
+  border-radius: 10px;
+}
+
+
  
  .carousel-inner img {
   width: 100%;
+  border-radius: 10px;
   
   max-height: 200px;
 }
@@ -17,8 +40,8 @@ height: 200px;
 .container3{
 padding-top: 50px;
 }
-.container1{
-margin-bottom: 25px;
+.container0,.container1{
+  margin-top: 20px;
 }
 .btn-secondary{
 padding-top: 8px;
