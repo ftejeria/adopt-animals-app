@@ -88,7 +88,7 @@ padding-top: 50px;
 }
 .container0-1{
   box-shadow: 5px 5px 8px black, 10px 10px 8px black, 15px 15px 8px rgba(255,255,255,.1) ;
-  background-color: rgb(121, 196, 219);
+  background-color: rgb(175, 213, 224); 
   margin-top: 100px;
   padding-bottom: 10px;
   border-radius: 10px;
@@ -105,6 +105,4 @@ padding-top: 8px;
   
 }
 
-.rowaux{
-  
-}
+
